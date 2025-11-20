@@ -91,7 +91,7 @@ Le simple fait de désérialiser des données provenant de `$_GET` permet d’ex
 ### 📂 Documentation
 Tous les détails des tests, captures d'écran et interprétations complètes sont disponibles dans :
 
-📌 <a href="./Rapport activités S4.pdf">Rapport simulations et propositions</a>
+📌 <a href="./Rapport_activités_S4.pdf">Rapport simulations et propositions</a>
 
 *[Note : Réactualisez votre page en cas d'erreur d'ouverture du pdf]*
 
