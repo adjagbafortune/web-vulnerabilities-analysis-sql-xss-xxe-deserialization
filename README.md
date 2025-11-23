@@ -1,10 +1,7 @@
 ## 🔐 Analyse de Vulnérabilités Web – SQL Injection, XSS, XXE, Désérialisation
 
 ### Vue d’ensemble
-Ce dépôt regroupe les travaux réalisés dans le cadre de l’**Activité 4** du programme  
-**D-Clic 2025 (OIF)**.
-L’objectif était d’identifier, simuler et comprendre plusieurs vulnérabilités courantes des
-applications web, puis de proposer des solutions concrètes pour les corriger.
+Ce dépôt regroupe les travaux réalisés dans le cadre de l’**Activité 4** du programme **D-Clic 2025 (OIF)**. L’objectif était d’identifier, simuler et comprendre plusieurs vulnérabilités courantes des applications web, puis de proposer des solutions concrètes pour les corriger.
 
 Les sous-activités incluent :
 - **Injection SQL**
